@@ -22,7 +22,7 @@
 ```yaml
 name: Adan Alter
 location: Gainesville, Florida
-school: Univeristy of Florida
+school: University of Florida
 major: Data Science
 fields_of_interest:
   [
